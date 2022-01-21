@@ -50,10 +50,10 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 ## Rubric
 | Task                                  | Points |
 |---------------------------------------|--------|
-| Created GitHub account and submitted username | 3      |
-| Created website through GitHub pages  | 2      |
-| Correctly added name to the heading   | 1      |
-| List exists   | 1      |
-| List is ‘bulleted’   | 1      |
-| Successfully committed homework   | 2      |
-| Total   | 10      |
+| Created GitHub account and submitted username | 3/10   |
+| Created website through GitHub pages  | 2/10   |
+| Correctly added name to the heading   | 1/10   |
+| List exists   | 1/10   |
+| List is ‘bulleted’   | 1/10   |
+| Successfully committed homework   | 2/10   |
+| Total   | 10/10   |
