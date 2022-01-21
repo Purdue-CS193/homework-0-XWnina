@@ -1,3 +1,10 @@
+# Nina's First CS193 Homework
+## Something I Like about CS193
+- Not a really hard course
+- Having three cute TAs (who are really good at CS)
+- The whole vibe of this course is engaging and cozy
+- I can learn things about JAVA other than the 180 classroom (with more specific help)
+
 # CS 193 Homework 0 - GitHub and Your Own Website!
 
 ## What is this assignment
